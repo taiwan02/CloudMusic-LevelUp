@@ -1,7 +1,7 @@
 # CloudMusic-LevelUp
 
 > 网易云音乐刷歌升级脚本
->
+>  
 > [项目 GitHub 地址](https://github.com/Secriy/CloudMusic-LevelUp)
 
 ## 脚本功能
